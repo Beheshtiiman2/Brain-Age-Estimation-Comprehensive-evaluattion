@@ -1,3 +1,6 @@
+# This repository is a duplicate of Dr. Tanveer's original repository, accessible at: https://github.com/mtanveer1/Predicting-brain-age-using-machine-learning-algorithms-A-comprehensive-evaluation
+
+
 # Brain-Age-Estimation
 A collection of different regression models for predicting Brain Age from T1 weighted MRI Images. To be used as a reference to the paper: **Predicting brain age using machine learning algorithms: A comprehensive evaluation (IEEE JBHI-EMBS)** `https://doi.org/10.1109/JBHI.2021.3083187 `.  
 
